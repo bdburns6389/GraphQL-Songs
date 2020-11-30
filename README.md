@@ -1,2 +1,3 @@
-# Lyrical-GraphQL
-Starter project from a GraphQL course on Udemy.com
+# Basic GraphQL frontend tutorial
+
+This is a tutorial used to better understand how React uses GraphQL with the Apollo Client library.
